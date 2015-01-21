@@ -23,7 +23,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by zhangf on 2014/11/17.
+ * Created by Aspsine on 2014/11/17.
  * Guider page
  */
 public class GuiderActivity extends Activity implements View.OnClickListener {

@@ -3,7 +3,7 @@ package com.aspsine.animationguider.ui.widget.guider;
 import android.view.animation.Animation;
 
 /**
- * Created by sf on 2014/11/19.
+ * Created by Aspsine on 2014/11/19.
  */
 public class GuiderAnimationListener implements Animation.AnimationListener {
     @Override

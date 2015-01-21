@@ -14,7 +14,7 @@ import com.aspsine.animationguider.R;
 
 
 /**
- * Created by sf on 2014/11/18.
+ * Created by Aspsine on 2014/11/18.
  */
 public class GuiderTwo extends RelativeLayout implements AnimationGuider {
     private ImageView ivTitleTwo, ivArrowUpTwo;

@@ -14,7 +14,7 @@ import com.aspsine.animationguider.R;
 
 
 /**
- * Created by sf on 2014/11/18.
+ * Created Aspsine sf on 2014/11/18.
  */
 
 public class GuiderFour extends RelativeLayout implements AnimationGuider{
