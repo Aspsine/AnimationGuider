@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="hammer_marginTop">32dp</dimen>
+    <dimen name="hammer_marginLeft">118dp</dimen>
+    <dimen name="sign_marginTop">83dp</dimen>
+    <dimen name="sign_marginLeft">32dp</dimen>
+    <dimen name="data_marginTop">50dp</dimen>
+    <dimen name="data_marginLeft">102dp</dimen>
+    <dimen name="chartview_label_text">13px</dimen>
+    <dimen name="static_chartview_label_text">13px</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="hammer_marginTop">34dp</dimen>
+    <dimen name="hammer_marginLeft">140dp</dimen>
+    <dimen name="sign_marginTop">84dp</dimen>
+    <dimen name="sign_marginLeft">39dp</dimen>
+    <dimen name="data_marginTop">50dp</dimen>
+    <dimen name="data_marginLeft">116dp</dimen>
+</resources>
